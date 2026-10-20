@@ -1,0 +1,6 @@
+{
+  "name": "Ace of Fades Barbershop",
+  "description": "Premier modern dark-themed barbershop in Wichita Falls, TX. Specializing in precision skin fades, beard sculpting, and luxury hot towel straight-razor shaves at 1512 Harrison St.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
